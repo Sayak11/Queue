@@ -1,2 +1,2 @@
 # Queue
-For different kinds of operations using queue
+For different kinds of operations using queue.
